@@ -1,0 +1,4 @@
+server:
+  port: 9977
+  servlet:
+    context-path:  /SpringBootStandAloneExample
